@@ -5,3 +5,7 @@ variable "nome" {
 variable "descricao" {
   type = string
 }
+
+variable "ambiente" {
+  type = string
+}
