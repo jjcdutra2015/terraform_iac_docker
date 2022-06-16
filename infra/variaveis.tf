@@ -9,3 +9,11 @@ variable "descricao" {
 variable "ambiente" {
   type = string
 }
+
+variable "maquina" {
+  type = string
+}
+
+variable "max" {
+  type = number
+}
